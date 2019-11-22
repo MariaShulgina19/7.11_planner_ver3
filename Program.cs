@@ -10,6 +10,7 @@ namespace Famplan
         static void Main(string[] args)
         {
             global::System.Console.WriteLine("test_22.11.2019");
+            global::System.Console.WriteLine("test2_22.11.2019");
             int response, response2;
             DateTime reservationDay2, reservationStartTime2, reservationEndTime2; // 6.11.to check      HOW to add list to classes nor to main programm?
             List<MEMBERS> membersList = new List<MEMBERS>();                        //CHeck how to add only day in  DATE TIME or only time?
